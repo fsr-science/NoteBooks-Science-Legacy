@@ -1,6 +1,6 @@
 *.zip
 tree.txt
-TEST/
+prompts/
 REFERENCE-BOOKS-SOURCE/
 compression.sh
 report.sh
