@@ -1,4 +1,6 @@
+
 # 📖 BIOLOGY XI — THE LIVING WORLD
+
 ### *Terminology & Etymology Vault | Strict A–Z Dictionary-Style Reference*
 
 > Every term below is isolated in a standardised callout box and arranged in **true alphabetical order** for instant lookup. Etymological roots (word origins) are dissected explicitly to build intuitive, lasting recognition of biological vocabulary — a skill that compounds across all 22 chapters of the NEET syllabus.
@@ -13,9 +15,9 @@
 
 ---
 
-> [!info] Binomial Nomenclature (Latin: *bi* = two + *nomen* = name) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Binomial Nomenclature (Latin: *bi* = two + *nomen* = name) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** A naming system in which every organism receives a scientific name composed of exactly two words — the generic name (Genus) and the specific epithet (species) — introduced by Carolus Linnaeus.
-> **Anatomical Location / Occurrence:** Universally applied across plants, animals, and other formally classified life forms; visible in every correctly written scientific name (e.g., *Homo sapiens*).
+> **Anatomical Location / Occurrence:** Universally applied across plants, animals, and other formally classified life forms; visible in every correctly written scientific name (e.g.,  *Homo sapiens* ).
 
 ---
 
@@ -25,8 +27,8 @@
 
 ---
 
-> [!info] Carolus Linnaeus — [Exam Target: Both] 🔥🔥🔥
-> **Scientific Definition:** The Swedish naturalist credited with introducing binomial nomenclature and authoring *Systema Naturae*, the foundational work that gave systematics its name.
+> [!important] Carolus Linnaeus — [Exam Target: Both] 🔥🔥🔥
+> **Scientific Definition:** The Swedish naturalist credited with introducing binomial nomenclature and authoring  *Systema Naturae* , the foundational work that gave systematics its name.
 > **Anatomical Location / Occurrence:** A historical figure, not a biological structure — referenced whenever the origin of binomial nomenclature or the term "systematics" is examined.
 
 ---
@@ -45,11 +47,11 @@
 
 > [!info] Dicotyledonae & Monocotyledonae — [Exam Target: NEET] 🔥🔥
 > **Scientific Definition:** The two classes within the plant division Angiospermae, distinguished by features such as the number of seed leaves (cotyledons); used as the worked example showing how organisms can share a Division yet diverge sharply at the Class level.
-> **Anatomical Location / Occurrence:** Mango (*Mangifera indica*) belongs to Dicotyledonae; Wheat (*Triticum aestivum*) belongs to Monocotyledonae — both still under Division Angiospermae.
+> **Anatomical Location / Occurrence:** Mango ( *Mangifera indica* ) belongs to Dicotyledonae; Wheat ( *Triticum aestivum* ) belongs to Monocotyledonae — both still under Division Angiospermae.
 
 ---
 
-> [!info] Division (Latin: *divisio* = a dividing, separation) — [Exam Target: NEET] 🔥🔥🔥
+> [!important] Division (Latin: *divisio* = a dividing, separation) — [Exam Target: NEET] 🔥🔥🔥
 > **Scientific Definition:** The botanical equivalent of Phylum — a high-level taxonomic category used exclusively for the Plant Kingdom, grouping classes with shared fundamental characteristics.
 > **Anatomical Location / Occurrence:** Used only in plant classification; e.g., division Angiospermae unites Dicotyledonae and Monocotyledonae.
 
@@ -57,29 +59,29 @@
 
 > [!info] Family (Latin: *familia* = household, group) — [Exam Target: Both] 🔥🔥
 > **Scientific Definition:** A taxonomic category comprising a group of related genera, characterised in plants using both vegetative and reproductive features.
-> **Anatomical Location / Occurrence:** Sits between Order and Genus in the taxonomic hierarchy; e.g., Felidae unites *Panthera* and *Felis*.
+> **Anatomical Location / Occurrence:** Sits between Order and Genus in the taxonomic hierarchy; e.g., Felidae unites *Panthera* and  *Felis* .
 
 ---
 
 > [!info] Generic Name (Latin: *genus* = kind, origin) — [Exam Target: Both] 🔥🔥
 > **Scientific Definition:** The first word of a binomial scientific name, denoting the genus to which the organism belongs; always capitalised and italicised.
-> **Anatomical Location / Occurrence:** Found at the start of any valid binomial; e.g., *Mangifera* in *Mangifera indica*.
+> **Anatomical Location / Occurrence:** Found at the start of any valid binomial; e.g., *Mangifera* in  *Mangifera indica* .
 
 ---
 
-> [!info] Genus (plural: Genera) (Latin: *genus* = birth, origin, kind) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Genus (plural: Genera) (Latin: *genus* = birth, origin, kind) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** A taxonomic category comprising a group of closely related species that share more characteristics with one another than with species of other genera.
 > **Anatomical Location / Occurrence:** The first word in any binomial scientific name; e.g., *Panthera* unites lion, tiger, and leopard.
 
 ---
 
-> [!info] ICBN — International Code for Botanical Nomenclature (Latin: *codex* = book of law) — [Exam Target: NEET] 🔥🔥🔥
+> [!important] ICBN — International Code for Botanical Nomenclature (Latin: *codex* = book of law) — [Exam Target: NEET] 🔥🔥🔥
 > **Scientific Definition:** The internationally agreed set of rules and principles governing the formal scientific naming of plants, ensuring global consistency and avoiding duplicate or conflicting names.
 > **Anatomical Location / Occurrence:** Applied during the formal description and naming of every newly discovered plant species worldwide.
 
 ---
 
-> [!info] ICZN — International Code of Zoological Nomenclature (Latin: *codex* = book of law) — [Exam Target: NEET] 🔥🔥🔥
+> [!important] ICZN — International Code of Zoological Nomenclature (Latin: *codex* = book of law) — [Exam Target: NEET] 🔥🔥🔥
 > **Scientific Definition:** The internationally agreed set of rules governing the formal scientific naming of animals, evolved by animal taxonomists to standardise nomenclature globally.
 > **Anatomical Location / Occurrence:** Applied during the formal description and naming of every newly discovered animal species worldwide.
 
@@ -97,13 +99,13 @@
 
 ---
 
-> [!info] Latinisation — [Exam Target: Board] 🔥
+> [!note] Latinisation — [Exam Target: Board] 🔥
 > **Scientific Definition:** The process of converting a word from any language (including names of people or places) into a Latin-sounding form so it conforms to the universal language requirement of biological nomenclature.
 > **Anatomical Location / Occurrence:** Applied whenever a scientific name is derived from a non-Latin source, such as a discoverer's surname.
 
 ---
 
-> [!info] Nomenclature (Latin: *nomen* = name + *calare* = to call) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Nomenclature (Latin: *nomen* = name + *calare* = to call) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** The standardised process of assigning a single, universally accepted scientific name to a correctly identified organism, ensuring no ambiguity or duplication across global scientific communication.
 > **Anatomical Location / Occurrence:** Applied to every formally described organism on Earth; governed internationally by ICBN (plants) and ICZN (animals).
 
@@ -121,25 +123,25 @@
 
 ---
 
-> [!info] Phylum (Greek: *phylon* = race, tribe, stock) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Phylum (Greek: *phylon* = race, tribe, stock) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** A high-level taxonomic category used exclusively for the Animal Kingdom, comprising classes that share fundamental body-plan features (e.g., presence of a notochord).
 > **Anatomical Location / Occurrence:** Used only in animal classification; e.g., phylum Chordata unites Pisces, Amphibia, Reptilia, Aves, and Mammalia.
 
 ---
 
-> [!info] Specific Epithet (Latin: *species* = kind + Greek *epitheton* = added, attributed) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Specific Epithet (Latin: *species* = kind + Greek *epitheton* = added, attributed) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** The second word of a binomial scientific name, denoting the particular species within a genus; always written with a lowercase first letter.
-> **Anatomical Location / Occurrence:** Found immediately after the genus name in any valid binomial; e.g., *indica* in *Mangifera indica*.
+> **Anatomical Location / Occurrence:** Found immediately after the genus name in any valid binomial; e.g., *indica* in  *Mangifera indica* .
 
 ---
 
-> [!info] Species (Latin: *species* = kind, sort) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Species (Latin: *species* = kind, sort) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** A group of individual organisms exhibiting fundamental similarities, distinguishable from other closely related groups by distinct morphological differences. The lowest and most specific category in taxonomic classification.
-> **Anatomical Location / Occurrence:** The base unit applied to all living organisms; represented by the specific epithet in a binomial name (e.g., *sapiens* in *Homo sapiens*).
+> **Anatomical Location / Occurrence:** The base unit applied to all living organisms; represented by the specific epithet in a binomial name (e.g., *sapiens* in  *Homo sapiens* ).
 
 ---
 
-> [!info] Systematics (Latin: *systema* = systematic arrangement) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Systematics (Latin: *systema* = systematic arrangement) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** The branch of study concerned with identification, nomenclature, classification, and additionally the evolutionary relationships between organisms. Broader in scope than taxonomy because it explicitly incorporates phylogenetic history.
 > **Anatomical Location / Occurrence:** A conceptual discipline; foundational to Linnaeus's *Systema Naturae* and all modern evolutionary classification systems.
 
@@ -151,7 +153,7 @@
 
 ---
 
-> [!info] Taxonomy (Greek: *taxis* = arrangement + *nomos* = law/method) — [Exam Target: Both] 🔥🔥🔥
+> [!important] Taxonomy (Greek: *taxis* = arrangement + *nomos* = law/method) — [Exam Target: Both] 🔥🔥🔥
 > **Scientific Definition:** The branch of biology dealing with the characterisation, identification, classification, and nomenclature of organisms. It is the formal science of arranging organisms into ordered categories based on shared characteristics.
 > **Anatomical Location / Occurrence:** Not a physical structure — a methodological framework applied universally across all biological kingdoms by taxonomists worldwide.
 
