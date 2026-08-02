@@ -5,7 +5,7 @@
 
 ---
 
-## Table of Contents
+## Table of Contents 
 
 1. [Overview](#overview)
 2. [What is NoteBooks-Science](#what-is-notebooks-science)
@@ -391,12 +391,12 @@ We welcome contributions from the FSR community. See [CONTRIBUTING.md](CONTRIBUT
 
 ### Roadmap
 
-- [ ] Discussion forums (NotePad integration)
-- [ ] Content moderation dashboard
-- [ ] Advanced search and filtering
-- [ ] Progress tracking and bookmarks
-- [ ] Offline mode support
-- [ ] Mobile app (React Native)
+- [ ]  Discussion forums (NotePad integration)
+- [ ]  Content moderation dashboard
+- [ ]  Advanced search and filtering
+- [ ]  Progress tracking and bookmarks
+- [ ]  Offline mode support
+- [ ]  Mobile app (React Native)
 
 ---
 
