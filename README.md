@@ -1,4 +1,4 @@
-# NoteBooks-Science
+# NoteBooks-Science-Legacy
 
 > A modern, structured knowledge management system for the Science Administration Department
 > Designed by the **Federation of Socialist Republics (FSR)** to centralize, organize, and democratize academic study materials
@@ -8,7 +8,7 @@
 ## Table of Contents 
 
 1. [Overview](#overview)
-2. [What is NoteBooks-Science](#what-is-notebooks-science)
+2. [What is NoteBooks-Science-Legacy](#what-is-NoteBooks-Science-Legacy)
 3. [Core Features](#core-features)
 4. [Technical Architecture](#technical-architecture)
 5. [Authentication System](#authentication-system)
@@ -20,7 +20,7 @@
 
 ## Overview
 
-**NoteBooks-Science** is the Science Administration Department's official study material platform. It replaces fragmented note-sharing workflows with a centralized, professionally managed repository that ensures:
+**NoteBooks-Science-Legacy** is the Science Administration Department's official study material platform. It replaces fragmented note-sharing workflows with a centralized, professionally managed repository that ensures:
 
 - **Quality Control** — All materials pass through administrative review
 - **Accessibility** — Students and educators can easily find, download, and reference materials
@@ -36,13 +36,13 @@ Science students face a critical challenge: study materials are scattered across
 - No official reference point for curriculum-aligned content
 - Repeated manual file distribution
 
-NoteBooks-Science provides the solution.
+NoteBooks-Science-Legacy provides the solution.
 
 ---
 
-## What is NoteBooks-Science
+## What is NoteBooks-Science-Legacy
 
-NoteBooks-Science is a **domain-specific knowledge platform** that functions as:
+NoteBooks-Science-Legacy is a **domain-specific knowledge platform** that functions as:
 
 1. **A Centralized Repository** — One authoritative source for all Science curriculum materials
 2. **A Document Management System** — Organized filing system with granular categorization
@@ -121,7 +121,7 @@ NoteBooks-Science is a **domain-specific knowledge platform** that functions as:
 
 ## Technical Architecture
 
-NoteBooks-Science is built with modern web technologies designed for performance and reliability.
+NoteBooks-Science-Legacy is built with modern web technologies designed for performance and reliability.
 
 ### Frontend Stack
 
@@ -203,7 +203,7 @@ NoteBooks-Science is built with modern web technologies designed for performance
 ## Project Structure
 
 ```
-NoteBooks-Science/
+NoteBooks-Science-Legacy/
 ├── index.html                 # Main application entry point
 ├── package.json              # Project dependencies
 ├── README.md                 # This file
@@ -286,8 +286,8 @@ Each chapter contains 4 standard sections:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/fsr-science/NoteBooks-Science.git
-   cd NoteBooks-Science
+   git clone https://github.com/fsr-science/NoteBooks-Science-Legacy.git
+   cd NoteBooks-Science-Legacy
    ```
 2. **Install dependencies**
 
@@ -402,7 +402,7 @@ We welcome contributions from the FSR community. See [CONTRIBUTING.md](CONTRIBUT
 
 ## License
 
-NoteBooks-Science is developed by the **Federation of Socialist Republics (FSR)** for the Science Administration Department. All materials are curated for educational use within the institution.
+NoteBooks-Science-Legacy is developed by the **Federation of Socialist Republics (FSR)** for the Science Administration Department. All materials are curated for educational use within the institution.
 
 For questions or contributions, contact: **fsr-science@gmail.com**
 
