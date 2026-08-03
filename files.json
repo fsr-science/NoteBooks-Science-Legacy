@@ -1,6 +1,6 @@
 {
   "type": "folder",
-  "name": "NoteBooks-Science-Legacy-Legacy",
+  "name": "NoteBooks-Science-Legacy",
   "children": [
     {
       "type": "folder",
@@ -1405,6 +1405,17 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS14-PROBABILITY/MATHEMATICS14-PROBABILITY-REVISION_MINDMAPS.md"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "PHYSCIAL-EDUCATION",
+          "children": [
+            {
+              "type": "file",
+              "name": "NOTES.md",
+              "path": "AI-NOTES/PHYSCIAL-EDUCATION/NOTES.md"
             }
           ]
         },
